@@ -1,0 +1,145 @@
+#isexpanded1:checked ~ * .bayan__img1 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+  
+ #isexpanded1, .bayan__img1 {
+  display: none;
+}
+
+#isexpanded1:checked ~ * .ico1 {
+  background-image: url("/cssBayan/cssBayan/src/images/znak-otmeny.png");
+}
+
+#isexpanded1, .ico1 { 
+  background-image: url("/cssBayan/cssBayan/src/images/png-clipart-computer-icons-encapsulated-postscript-symbol-symbol-miscellaneous-logo.png");
+}
+
+#isexpanded1:checked ~ * .bayan__text1 {
+  color: black;
+}
+
+#isexpanded1, .bayan__text1 { 
+  color: blue;
+}
+
+  
+  
+  
+  
+#isexpanded2:checked ~ * .bayan__img2 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+  
+#isexpanded2, .bayan__img2 {
+  display: none;
+}
+  
+#isexpanded2:checked ~ * .ico2 {
+  background-image: url("/cssBayan/cssBayan/src/images/znak-otmeny.png");
+}
+
+#isexpanded2, .ico2 { 
+  background-image: url("/cssBayan/cssBayan/src/images/png-clipart-computer-icons-encapsulated-postscript-symbol-symbol-miscellaneous-logo.png");
+}
+  
+#isexpanded2:checked ~ * .bayan__text2 {
+  color: black;
+}
+
+#isexpanded2, .bayan__text2 { 
+  color: blue;
+}
+
+  
+  
+  
+  
+#isexpanded3:checked ~ * .bayan__img3 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+  
+#isexpanded3, .bayan__img3 {
+  display: none;
+}
+  
+#isexpanded3:checked ~ * .ico3 {
+  background-image: url("/cssBayan/cssBayan/src/images/znak-otmeny.png");
+}
+  
+#isexpanded3, .ico3 { 
+  background-image: url("/cssBayan/cssBayan/src/images/png-clipart-computer-icons-encapsulated-postscript-symbol-symbol-miscellaneous-logo.png");
+}
+
+#isexpanded3:checked ~ * .bayan__text3 {
+  color: black;
+}
+
+#isexpanded3, .bayan__text3 { 
+  color: blue;
+}
+  
+  
+  
+  
+  
+#isexpanded4:checked ~ * .bayan__img4 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+  
+#isexpanded4, .bayan__img4 {
+  display: none;
+}
+  
+#isexpanded4:checked ~ * .ico4 {
+  background-image: url("/cssBayan/cssBayan/src/images/znak-otmeny.png");
+}
+  
+#isexpanded4, .ico4 { 
+  background-image: url("/cssBayan/cssBayan/src/images/png-clipart-computer-icons-encapsulated-postscript-symbol-symbol-miscellaneous-logo.png");
+}
+
+#isexpanded4:checked ~ * .bayan__text4 {
+  color: black;
+}
+#isexpanded4, .bayan__text4 { 
+  color: blue;
+}
+  
+  
+  
+  
+   
+  
+#isexpanded5:checked ~ * .bayan__img5 {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 2rem;
+}
+  
+#isexpanded5, .bayan__img5 {
+  display: none;
+}
+
+#isexpanded5:checked ~ * .ico5 {
+  background-image: url("/cssBayan/cssBayan/src/images/znak-otmeny.png");
+}
+  
+#isexpanded5, .ico5 { 
+  background-image: url("/cssBayan/cssBayan/src/images/png-clipart-computer-icons-encapsulated-postscript-symbol-symbol-miscellaneous-logo.png");
+}
+
+#isexpanded5:checked ~ * .bayan__text5 {
+  color: black;
+}
+
+#isexpanded5, .bayan__text5 { 
+  color: blue;
+}

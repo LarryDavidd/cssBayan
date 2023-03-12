@@ -1,0 +1,33 @@
+@import url("checked.css");
+@import url("pseudoclasses.css");
+@import url("bayan.css");
+
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: white;
+}
+
+.wrapper {
+  max-width: 100rem;
+  margin: auto;
+}
+
+.icon-square {
+  width: 5rem;
+  height: 5rem;
+  border-radius: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+@media (max-width: 320px) {
+  .bayan__img img {
+    width: 20rem;
+  }
+}
